@@ -1,0 +1,3 @@
+(library
+  (name linux)
+  (c_names linux_stubs))
