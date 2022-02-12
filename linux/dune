@@ -1,3 +1,4 @@
 (library
   (name linux)
-  (c_names linux_stubs))
+  (foreign_stubs (language c) (names linux_stubs))
+)
